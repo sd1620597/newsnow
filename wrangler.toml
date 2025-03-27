@@ -1,11 +1,10 @@
 name = "newsnow"
 pages_build_output_dir = "dist/output/public"
 compatibility_date = "2024-10-03"
+api_token = "HWCyz40wUSDU8xJAscj77NnXdHHAbFI9Se-z9D58"
 
 [[d1_databases]]
 binding = "NEWSNOW_DB"
 database_name = "newsnow"
 database_id = "4a60893b-c582-448d-8979-f1693b6fcf66"
 
-[secrets]
-api_token = "HWCyz40wUSDU8xJAscj77NnXdHHAbFI9Se-z9D58"
